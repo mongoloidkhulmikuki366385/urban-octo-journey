@@ -18,7 +18,7 @@
     "@ant-design/icons": "^4.2.2",
     "@apollo/client": "^3.3.21",
     "@apollo/react-hooks": "^4.0.0",
-    "@arbitrum/sdk": "^2.0.0",
+    "@arbitrum/sdk": "^3.0.0",
     "@eth-optimism/sdk": "^1.0.0",
     "@portis/web3": "^4.0.5",
     "@ramp-network/ramp-instant-sdk": "^2.2.0",
@@ -53,7 +53,7 @@
     "react-dom": "^17.0.2",
     "react-qr-reader": "^2.2.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "5.0.0",
     "searchico": "^1.2.1",
     "walletlink": "^2.1.5",
     "web3modal": "^1.9.1"
@@ -69,12 +69,12 @@
     "gulp": "^4.0.2",
     "gulp-csso": "^4.0.1",
     "gulp-debug": "^4.0.0",
-    "gulp-less": "^4.0.1",
+    "gulp-less": "^5.0.0",
     "gulp-postcss": "^9.0.0",
     "less-plugin-npm-import": "^2.1.0",
     "prettier": "^2.0.5",
     "s3-folder-upload": "^2.3.1",
-    "surge": "^0.21.5"
+    "surge": "^0.22.0"
   },
   "eslintConfig": {
     "extends": [
